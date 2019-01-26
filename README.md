@@ -1,4 +1,6 @@
 # premier_projet
 c'est mon premier projet
-bonjour  hi 
---
+bonjour 
+salut
+tu étais ou 
+à la maison 
